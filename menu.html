@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Product List</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <!-- The image is kept in the header with absolute positioning -->
+    <img src="images/shopping-cart.png" alt="Header Image" id="header-image">
+    
+    <!-- Navigation menu within the header -->
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="menu.html">Menu</a></li>
+        <li><a href="queue.html">Queue</a></li>
+        <li><a href="about-us.html">About Us</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <!-- Dropdown for Category Filter -->
+  <div id="category-filter">
+    <select onchange="filterCategory(this.value)">
+      <option value="all">All Categories</option>
+      <option value="fried">Fried Dishes</option>
+      <option value="drinks">Drinks</option>
+      <option value="dessert">Desserts</option>
+    </select>
+  </div>
+
+
+  <main>
+    <div id="product-list" class="product-grid"></div>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 E-Commerce</p>
+  </footer>
+  
+  <script src="script.js"></script>
+</body>
+</html>

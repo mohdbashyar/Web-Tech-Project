@@ -1,0 +1,178 @@
+[
+    {
+      "id": 1,
+      "name": "Nasi Goreng Cina",
+      "price": 6,
+      "image": "images/1.webp",
+      "category": "fried"
+    },
+    {
+      "id": 2,
+      "name": "Nasi Goreng USA",
+      "price": 7,
+      "image": "images/2.jpg",
+      "category": "fried"
+    },
+    {
+      "id": 3,
+      "name": "Nasi Goreng Kampung",
+      "price": 6,
+      "image": "images/3.jpg",
+      "category": "fried"
+    },
+    {
+      "id": 4,
+      "name": "Nasi Goreng Paprik",
+      "price": 7,
+      "image": "images/4.jpg",
+      "category": "fried"
+    },
+    {
+      "id": 5,
+      "name": "Mee Goreng Basah",
+      "price": 6,
+      "image": "images/5.jpg",
+      "category": "fried"
+    },
+    {
+      "id": 6,
+      "name": "Mee Goreng Mamak",
+      "price": 6,
+      "image": "images/6.jpg",
+      "category": "fried"
+    },
+    {
+        "id": 7,
+        "name": "Maggi Goreng",
+        "price": 4.50,
+        "image": "images/7.jpg",
+        "category": "fried"
+    },
+    {
+        "id": 8,
+        "name": "Char Kuey Teow",
+        "price": 4.50,
+        "image": "images/8.jpg",
+        "category": "fried"
+    },
+    {
+        "id": 9,
+        "name": "Chicken Chop",
+        "price": 7,
+        "image": "images/9.jpg",
+        "category": "fried"
+    },
+    {
+        "id": 10,
+        "name": "Tom Yum Fried Chicken",
+        "price": 4.5,
+        "image": "images/10.jpg",
+        "category": "fried"
+    },
+    {
+        "id": 11,
+        "name": "Milo Ice",
+        "price": 2.5,
+        "image": "images/11.jpg",
+        "category": "drinks"
+    },
+    {
+        "id": 12,
+        "name": "Ice Tea",
+        "price": 2.5,
+        "image": "images/12.jpg",
+        "category": "drinks"
+    },
+    {
+        "id": 13,
+        "name": "Ice Lemon Tea",
+        "price": 2.50,
+        "image": "images/13.jpg",
+        "category": "drinks"
+    },
+    {
+        "id": 14,
+        "name": "Sirap Bandung",
+        "price": 2.50,
+        "image": "images/14.jpg",
+        "category": "drinks"
+    },
+      {
+        "id": 15,
+        "name": "Coconut Drink",
+        "price": 3.00,
+        "image": "images/15.jpg",
+        "category": "drinks"
+      },
+      {
+        "id": 16,
+        "name": "Nescafe Ice",
+        "price": 2.80,
+        "image": "images/16.png",
+        "category": "drinks"
+      },
+      {
+        "id": 17,
+        "name": "Watermelon Juice",
+        "price": 3.00,
+        "image": "images/17.jpg",
+        "category": "drinks"
+      },
+      {
+        "id": 18,
+        "name": "Extra Joss",
+        "price": 2.50,
+        "image": "images/18.jpg",
+        "category": "drinks"
+      },
+      {
+        "id": 19,
+        "name": "Coke",
+        "price": 1.50,
+        "image": "images/19.jpg",
+        "category": "drinks"
+      },
+      {
+        "id": 20,
+        "name": "Mineral Water",
+        "price": 1.00,
+        "image": "images/20.jpg",
+        "category": "drinks"
+      },
+      {
+        "id": 21,
+        "name": "Sago",
+        "price": 4.50,
+        "image": "images/21.jpg",
+        "category": "dessert"
+      },
+      {
+        "id": 22,
+        "name": "Putu Mayam",
+        "price": 4.00,
+        "image": "images/22.jpg",
+        "category": "dessert"
+      },
+      {
+        "id": 23,
+        "name": "Putu Bambu",
+        "price": 4.00,
+        "image": "images/23.jpg",
+        "category": "dessert"
+      },
+      {
+        "id": 24,
+        "name": "Cendol",
+        "price": 4.00,
+        "image": "images/24.png",
+        "category": "dessert"
+      },
+      {
+        "id": 25,
+        "name": "ABC",
+        "price": 4.00,
+        "image": "images/25.jpg",
+        "category": "dessert"
+      }
+  ]
+  
