@@ -168,19 +168,20 @@ footer {
 }
 
 .about-text img.about-logo {
-  width: 385px; /* Adjust size of the logo */
+  
+  width: 250px; /* Adjust size of the logo */
   margin-bottom: 5px; /* Add spacing below the logo */
 }
 
 .about-text h1 {
   color: #000000;
-  font-size: 43px;
+  font-size: 35px;
   margin: 10px 0;
 } 
 
 .about-text p {
   
-  font-size: 29px;
+  font-size: 20px;
   line-height: 1.6;
   margin: 10px 0;
  
